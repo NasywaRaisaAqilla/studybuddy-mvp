@@ -1,0 +1,12 @@
+{
+  "name": "studybuddy-mvp",
+  "version": "1.0.0",
+  "description": "MVP Frontend StudyBuddy Application",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
